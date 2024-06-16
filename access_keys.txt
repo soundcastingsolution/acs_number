@@ -1,0 +1,1 @@
+endpoint=https://contoso-ignite-acs.westus.communication.azure.com/;accesskey=IgtrcOdPG0qoTTxkNJcg0XfgxzcO+Mk8zrEeayGS1xU34AVrF4DwfliPMIMWLQ+DQSVH+RO4PM+8WyRuV9L8gg==
